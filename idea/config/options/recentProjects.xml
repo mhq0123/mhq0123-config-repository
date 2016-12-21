@@ -1,0 +1,68 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:\mahq\workspace_other\mhq0123-config-repository" />
+        <option value="D:\mahq\workspace_java\spring-cloud-demo" />
+        <option value="D:\mahq\workspace_java\mhq0123-officialwebsite" />
+        <option value="D:\mahq\workspace_java\dubbo" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:\mahq\workspace_java\spring-cloud-demo" />
+        <option value="D:\mahq\workspace_java\mhq0123-officialwebsite" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:\mahq\workspace_other\mhq0123-config-repository" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:\mahq\workspace_java\dubbo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.382" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 15.0.1\bin" />
+              <option name="projectOpenTimestamp" value="1481766643717" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\mahq\workspace_java\mhq0123-officialwebsite">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.382" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 15.0.1\bin" />
+              <option name="projectOpenTimestamp" value="1482281631667" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\mahq\workspace_java\spring-cloud-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.382" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 15.0.1\bin" />
+              <option name="projectOpenTimestamp" value="1482284943957" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\mahq\workspace_other\mhq0123-config-repository">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.382" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\Program Files (x86)\JetBrains\IntelliJ IDEA 15.0.1\bin" />
+              <option name="projectOpenTimestamp" value="1482295841317" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/mahq/workspace_java" />
+  </component>
+</application>

@@ -1,0 +1,51 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="192" y="94" />
+    <location key="GitCloneDialog.0.0.1600.900" x="606" y="267" />
+    <location key="SettingsEditor.0.0.1600.900" x="319" y="142" />
+    <location key="NewModule_or_Project.wizard.0.0.1600.900" x="438" y="13" />
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="799" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1600.900" x="507" y="245" />
+    <location key="OptionsEditor.0.0.1600.900" x="274" y="2" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1600.900" x="248" y="83" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1600.900" x="583" y="114" />
+    <location key="#Browse_Repositories.0.0.1600.900" x="583" y="114" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1600.900" x="460" y="278" />
+    <location key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.0.0.1600.900" x="509" y="125" />
+    <location key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.0.0.1600.900" x="506" y="137" />
+    <location key="#TODO.0.0.1600.900" x="537" y="0" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1600.900" x="599" y="136" />
+    <location key="replaceTextDialog.0.0.1600.900" x="548" y="118" />
+    <location key="findTextDialog.0.0.1600.900" x="548" y="146" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1600.900" x="462" y="25" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.1600.900" x="330" y="182" />
+    <location key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey.0.0.1600.900" x="687" y="209" />
+    <location key="new project wizard.0.0.1600.900" x="440" y="82" />
+    <location key="Github.ShareDialog.0.0.1600.900" x="579" y="303" />
+    <location key="Github.UntrackedFilesDialog.0.0.1600.900" x="574" y="144" />
+    <location key="CommitChangelistDialog2.0.0.1600.900" x="440" y="133" />
+    <location key="Vcs.Push.Dialog.0.0.1600.900" x="487" y="141" />
+    <location key="ProcessPopupWindow.0.0.1600.900" x="1033" y="633" />
+    <location key="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.0.0.1600.900" x="703" y="264" />
+    <location key="RollbackChangesDialog.0.0.1600.900" x="573" y="140" />
+    <location key="git4idea.ui.GitUnstashDialog.0.0.1600.900" x="560" y="261" />
+    <location key="IgnoreUnversionedDialog.0.0.1600.900" x="652" y="394" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1600.900" x="538" y="310" />
+    <location key="Github.CreateGistDialog.0.0.1600.900" x="619" y="317" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1600.900" x="524" y="183" />
+    <location key="#Project_Structure.0.0.1600.900" x="29" y="5" />
+    <location key="RestClientTextRequest.0.0.1600.900" x="574" y="233" />
+    <location key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.0.0.1600.900" x="524" y="182" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1600.900" x="495" y="215" />
+    <size key="GridCell.Tab.0.left.0.0.1600.900" width="1544" height="215" />
+    <size key="GridCell.Tab.0.center.0.0.1600.900" width="1544" height="215" />
+    <size key="GridCell.Tab.0.right.0.0.1600.900" width="1544" height="215" />
+    <size key="GridCell.Tab.0.bottom.0.0.1600.900" width="1544" height="215" />
+    <size key="javadoc.popup.0.0.1600.900" width="446" height="166" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1600.900" width="654" height="845" />
+    <size key="ProcessPopupWindow.0.0.1600.900" width="559" height="119" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup.0.0.1600.900" width="302" height="300" />
+    <size key="SettingsEditor.0.0.1600.900" width="1038" height="717" />
+    <size key="Vcs.Push.Dialog.0.0.1600.900" width="772" height="587" />
+  </component>
+</application>

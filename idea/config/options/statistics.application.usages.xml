@@ -1,0 +1,96 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type-temp">
+      <project id="spring-cloud-demo" values="JarApplication,Application,SpringBootApplicationConfigurationType" collectionTime="1482281617090" />
+    </group>
+    <group name="libraries">
+      <project id="dubbo" values="groovy,spring,BeanValidation,spring-mvc" collectionTime="1481766721933" />
+      <project id="officialwebsite" values="spring-boot,groovy,WebSocket,spring-mvc,thymeleaf,spring,BeanValidation,EJB" collectionTime="1482281617416" />
+      <project id="spring-cloud-demo" values="BeanValidation,JAX-RS,spring-integration,CDI,EJB,spring-mvc,spring-boot,spring,WebSocket" collectionTime="1482281617320" />
+    </group>
+    <group name="vcs">
+      <project id="dubbo" values="Git" collectionTime="1481766721875" />
+      <project id="officialwebsite" values="Git" collectionTime="1482281617392" />
+      <project id="spring-cloud-demo" values="Git" collectionTime="1482281617089" />
+    </group>
+    <group name="frameworks">
+      <project id="dubbo" values="web" collectionTime="1481766721875" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="dubbo" values="ECMAScript 5.1" collectionTime="1481766722158" />
+      <project id="officialwebsite" values="ECMAScript 5.1" collectionTime="1482281617416" />
+      <project id="spring-cloud-demo" values="ECMAScript 5.1" collectionTime="1482281617351" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="officialwebsite" values="SpringBootApplicationConfigurationType" collectionTime="1482281617392" />
+      <project id="spring-cloud-demo" values="SpringBootApplicationConfigurationType" collectionTime="1482281617090" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="dubbo" values="com.mysql.jdbc.Driver" collectionTime="1481766722158" />
+    </group>
+    <group name="Spring Boot">
+      <project id="officialwebsite" values="RunConfigsPerProject_1,application.yml" collectionTime="1482281617418" />
+      <project id="spring-cloud-demo" values="ConfigurationProperties_1,application.yml,RunConfigsPerProject_7,bootstrap.yml,application.yml,application.yml,application.yml,application.yml,application.yml,application.yml" collectionTime="1482281617392" />
+    </group>
+    <group name="file-type">
+      <project id="dubbo" values="VTL,JavaScript,XML,YAML,Images,PLAIN_TEXT,Properties,JAVA,SPI,DATASOURCE_STORAGE,CSS,IDEA_MODULE,UNKNOWN" collectionTime="1481766721904" />
+      <project id="officialwebsite" values="JAVA,CSS,Images,HTML,PLAIN_TEXT,XML,IDEA_MODULE,YAML,UNKNOWN" collectionTime="1482281617415" />
+      <project id="spring-cloud-demo" values="YAML,PLAIN_TEXT,XML,IDEA_MODULE,Markdown,UNKNOWN,JAVA" collectionTime="1482281617259" />
+    </group>
+    <group name="module type">
+      <project id="dubbo" values="JAVA_MODULE" collectionTime="1481766721876" />
+      <project id="officialwebsite" values="JAVA_MODULE" collectionTime="1482281617392" />
+      <project id="spring-cloud-demo" values="JAVA_MODULE" collectionTime="1482281617089" />
+    </group>
+    <group name="language-level">
+      <project id="dubbo" values="JDK_1_6,JDK_1_7" collectionTime="1481766721934" />
+      <project id="officialwebsite" values="JDK_1_8" collectionTime="1482281617416" />
+      <project id="spring-cloud-demo" values="JDK_1_8" collectionTime="1482281617349" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="dubbo" values="Project,Project" collectionTime="1481766722158" />
+      <project id="officialwebsite" values="Project,Project" collectionTime="1482281617416" />
+      <project id="spring-cloud-demo" values="Project,Project" collectionTime="1482281617351" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="4" />
+      <entry feature="OpenInBrowser.Chrome" count="1" />
+      <entry feature="execute.Application.Run" count="34" />
+      <entry feature="execute.JarApplication.Run" count="2" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Coverage" count="1" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="127" />
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.Auto_Import" count="2" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Code_Folding" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Compiler" count="3" />
+      <entry feature="ide.settings.Confirmation" count="1" />
+      <entry feature="ide.settings.Debugger" count="1" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.File_Encodings" count="2" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="1" />
+      <entry feature="ide.settings.Font" count="9" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Ignored_Files" count="2" />
+      <entry feature="ide.settings.Images" count="1" />
+      <entry feature="ide.settings.Keymap" count="2" />
+      <entry feature="ide.settings.Maven" count="4" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ideaapp.started" count="13" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="41" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="184" />
+      <entry feature="uml.ShowDiagram.DATABASE" count="2" />
+      <entry feature="uml.ShowDiagram.MAVEN" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+    </counts>
+  </component>
+</application>

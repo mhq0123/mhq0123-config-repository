@@ -1,0 +1,9 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>assertNull(url.getProtocol());         assertNull(url.getUsername());         assertNull(url.getPassword());         assertNull(url.getHost());         assertEquals(0, url.getPort());         assertEquals(&quot;context/path&quot;, url.getPath());         assertEquals(2, url.getParameters().size());         assertEquals(&quot;1.0.0&quot;, url.getParameter(&quot;version&quot;));         assertEquals(&quot;morgan&quot;, url.getParameter(&quot;applicati</find>
+      <find>base</find>
+      <find>leaseExpirationDurationInSeconds</find>
+    </findStrings>
+  </component>
+</application>
