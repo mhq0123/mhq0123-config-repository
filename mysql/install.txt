@@ -1,0 +1,45 @@
+--- windows
+1、下载绿色版安装
+2、重命名my-default.ini为其它名字
+在mysql安装目录新建my.ini，注意调整basedir、datadir
+
+---------------------------------
+[mysql]
+; 设置mysql客户端默认字符集
+default-character-set=utf8
+[mysqld]
+;设置3306端口
+port = 3306
+; 设置mysql的安装目录
+basedir=D:\Program Files\mysql-5.7.17-winx64
+; 设置mysql数据库的数据的存放目录
+datadir=D:\Program Files\mysql-5.7.17-winx64\data
+; 允许最大连接数
+max_connections=200
+; 服务端使用的字符集默认为8比特编码的latin1字符集
+character-set-server=utf8
+; 创建新表时将使用的默认存储引擎
+default-storage-engine=INNODB
+; 模式
+sql_mode=NO_ENGINE_SUBSTITUTION,STRICT_TRANS_TABLES
+---------------------------------
+
+3、配置bin目录为path
+4、以管理员运行cmd进入安装服务
+>mysqld install
+
+5、初始化data跟root密码
+>mysqld --initialize
+
+6、进入data目录有个后缀为.err的文件 初始密码在里面
+
+7、启动服务、修改密码
+net start mysql
+mysql -u root -p
+
+ALTER USER 'root'@'localhost' IDENTIFIED BY '123456';
+
+8、创建用户、数据库
+>create user userone@localhost identified by '123456';
+>create database dbone;
+>grant all on dbone.* to userone;
