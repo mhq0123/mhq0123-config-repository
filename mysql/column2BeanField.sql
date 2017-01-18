@@ -157,7 +157,7 @@ IF (
 		';'
 	)
 FROM
-	COLUMNS t
+	 information_schema.COLUMNS t
 WHERE
 	LOWER(t.table_name) = LOWER(@table_name)
 ORDER BY
