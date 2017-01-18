@@ -124,6 +124,16 @@ under the License.
       <passphrase>optional; leave empty if not used.</passphrase>
     </server>
     -->
+      <server>
+          <id>mhq0123-releases</id>
+          <username>admin</username>
+          <password>admin123</password>
+      </server>
+      <server>
+          <id>mhq0123-snapshots</id>
+          <username>admin</username>
+          <password>admin123</password>
+      </server>
   </servers>
 
   <!-- mirrors
